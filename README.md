@@ -11,6 +11,10 @@ The Dataset are provided with historical sales data for 1,115 Rossmann stores, s
   * Rossmann Store Sales is from Kaggle:
 
     https://www.kaggle.com/c/rossmann-store-sales
+   
+  * Dataset Features
+     
+    Id, StoreID, Sales, Customer, Open, StateHoliday, SchoolHoliday, StoreType, Assortment, CompetitionDistance,    CompetitionOpenSince[Month/Year], Promo, Promo2, Promo2Since[Year/Week], PromoInterval
 
 
 
