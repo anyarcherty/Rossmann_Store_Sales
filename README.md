@@ -16,6 +16,6 @@ The Dataset are provided with historical sales data for 1,115 Rossmann stores, s
      
     Id, StoreID, Sales, Customer, Open, StateHoliday, SchoolHoliday, StoreType, Assortment, CompetitionDistance,    CompetitionOpenSince[Month/Year], Promo, Promo2, Promo2Since[Year/Week], PromoInterval
 
-
+  * The `Sales` is the label we want to predict
 
 
