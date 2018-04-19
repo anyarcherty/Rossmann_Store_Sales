@@ -1,14 +1,16 @@
 # Rossmann Store Sales
 
-## Purpose:
+### Purpose:
 
 The project is to forecast the "Sales" column for the test set. 
 
 The Dataset are provided with historical sales data for 1,115 Rossmann stores, some stores in the dataset were temporarily closed for refurbishment
 
-Kaggle
+### Data Extraction:
 
-https://www.kaggle.com/c/rossmann-store-sales
+  * Rossmann Store Sales is from Kaggle:
+
+    https://www.kaggle.com/c/rossmann-store-sales
 
 
 
