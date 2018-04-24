@@ -40,7 +40,7 @@ The Dataset are provided with historical sales data for 1,115 Rossmann stores, s
   
 ### Result
 
- * Final test result is 0.12175
+ * Final test result is 0.122
 
 
 
