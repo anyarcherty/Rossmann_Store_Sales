@@ -20,4 +20,27 @@ The Dataset are provided with historical sales data for 1,115 Rossmann stores, s
  
 ### Data Preprocessing
 
+  * String to numerical
+  
+  * Label Encode
+  
+  * Imputate missing value
+  
+    * feature mode
+    
+    * KNN model
+
+### Build Model
+
+  * Random Forest
+  
+  * Xgboost
+  
+  * LightGBM
+  
+### Result
+
+ * Final test result is 0.12175
+
+
 
